@@ -1,0 +1,17 @@
+.products{
+    background-color: #3b3b3b;
+}
+.product{
+    width: calc((100% - 96px) / 3);
+    border: 1px solid #fff;
+    text-align: center;
+    border-radius: 10px;
+    color: #fff;
+}
+.product a{
+text-decoration: none;
+background-color:#A259FF ;
+color: #fff;
+padding: 10px 20px;
+border-radius: 10px;
+}

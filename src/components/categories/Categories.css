@@ -1,0 +1,11 @@
+.categories{
+    background-color: #3b3b3b;
+}
+.category{
+    width: calc((100% - 96px) / 3);
+    border: 1px solid #fff;
+    color: #fff;
+}
+a{
+    color: #fff;
+}
